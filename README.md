@@ -10,3 +10,4 @@ NPTL Courses
 
 [# Programming in Modern C++](https://onlinecourses.nptel.ac.in/noc25_cs144/preview)
 
+[# Human Computer Interaction (In Hindi)](https://onlinecourses.nptel.ac.in/noc25_cs112/preview)
