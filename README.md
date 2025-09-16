@@ -13,7 +13,10 @@ NPTL Courses
 [# Google Form Link](https://forms.gle/HQRHPPULQqamMU1R6)
 
 
-[# Lab Softwares](https://drive.google.com/drive/folders/1OrrglNVJa-JrOowU5IFCuPybHmVtTwBw?usp=drive_link)
+# Lab Softwares
+
+https://drive.google.com/file/d/17OkGueClLPmqBWD3pbXpe9DkT7MPyL-v/view?usp=drive_link 
+https://drive.google.com/file/d/1uyrnUq5PKIdUQjHAK4R8nCJbbkn3EyW3/view?usp=sharing
 
 
 
