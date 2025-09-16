@@ -10,7 +10,7 @@ NPTL Courses
 
 [# Programming in Modern C++](https://onlinecourses.nptel.ac.in/noc25_cs144/preview)
 
-[# Google Form Link](https://forms.gle/HQRHPPULQqamMU1R6)
+
 
 
 # Lab Softwares
