@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1uyrnUq5PKIdUQjHAK4R8nCJbbkn3EyW3/view?usp=shari
 
 LAB SESSION 
 
-**Group 1:** 630, 601, 659, 603, 660
+**Group 1:** 630, 601, 659, 603, 657
 
 **Group 2:** 650, L4, 637, 638, 620
 
@@ -31,7 +31,7 @@ LAB SESSION
 
 **Group 5:** 635, 641, 658, 649, 652
 
-**Group 6:** 657, 629, 661, 607, 614
+**Group 6:** 660, 629, 661, 607, 614
 
 **Group 7:** 615, 622, 636, 623, 631
 
