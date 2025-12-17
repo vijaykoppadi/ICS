@@ -47,4 +47,4 @@ LAB SESSION
 
 **Group 13:** 656, 611, 610, 651, 619
 
-[https://meet.google.com/dud-xzjz-etm](https://classroom.github.com/a/-6ZSMbMY)
+https://classroom.github.com/a/-6ZSMbMY
